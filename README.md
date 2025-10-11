@@ -22,7 +22,7 @@ Loaded directly via `sc.datasets.pbmc3k()` (≈ 3 000 cells).
 ## 📊 Example Output
 UMAP projection colored by Leiden clusters:
 
-![UMAP Clusters](figures/umap_clusters.png)
+![UMAP Clusters](umap_clusters.png)
 
 Each cluster represents transcriptionally distinct immune populations
 (e.g., T cells, B cells, monocytes, NK cells — to be annotated later).
